@@ -1,0 +1,108 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+
+.container{
+    margin-bottom: 100px;
+}
+
+a, a:hover{
+    text-decoration: none;
+    outline: none;
+}
+.red-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-item h1{
+    font-weight: 600;
+}
+.carousel-item p{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 300;
+}
+.price{
+    color: #ff3786;
+    margin: 15px 0;
+}
+.buy-now-button{
+	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+	color: #fff;
+	border: none;
+    padding: 10px 20px;
+    border-radius: 9px;
+    text-transform: uppercase;
+}
+.categories h2{
+    font-size: 30px;
+    color: #1f1f1f;
+    font-weight: 500;
+    font-family: "Poppins";
+    margin-bottom: 30px;
+}
+.cat1{    
+    background-image: linear-gradient(126deg, #ff9c35 0%, #ffd019 100%);
+}
+.cat2{    
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+.cat3{    
+    background-image: linear-gradient(157deg, #4289ff 0%, #3f07f8 100%);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 18px;
+}
+.cat1 h3, .cat2 h3, .cat3 h3{
+    color: #fff;
+    font-size: 50px;
+    line-height: 40px;
+    font-weight: 500;
+}
+.cat1 img, .cat2 img, .cat3 img{
+    width: 110px;    
+}
+
+.shoes{
+    margin-bottom: 100px;
+}
+.shoes h2{
+    font-size: 30px;
+    color: #1f1f1f;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+.shoes a, .backpack a{
+    font-size: 22px;
+    color: #ff9d00;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+.card-title{
+    font-size: 24px;
+    color: #1f1f1f;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+.rate{
+    font-size: 24px;
+    color: #1f1f1f;
+    font-weight: 500;
+    font-family: "Poppins";
+    padding: 20px 0;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.backpack{
+    margin-bottom: 100px;
+}
+
+input{
+    outline: none;
+}
